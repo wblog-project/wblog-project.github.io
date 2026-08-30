@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wblog-project.github.io/sitemap-index.xml
